@@ -41,3 +41,5 @@ Thumbs.db
 # fe ignore
 .sass-cache/
 mock_datas/
+
+*.md
